@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+*.venv
+
+# IDE
+.idea/
+.vscode/
+
+# Testing
+.pytest_cache/
+.mypy_cache/
+
+# Coverage reports
+.coverage
